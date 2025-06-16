@@ -11,7 +11,7 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 - **Internship at Technocolabs Softwares (Sept 2024 - Feb 2025)**
 
   - Successfully completed a six-month internship, recognized for punctuality, hard work, and analytical skills.
-  - Worked cross-functionally with data science and data engineering teams to clean and structure Pickup and Delivery datasets, developing 8 dashboards for Delivery data and 7 for Pickup data using Excel, Power BI, and Tableau.
+  - Worked cross-functionally with data science and data engineering teams to clean and structure Pickup and Delivery datasets, developing 8 dashboards for Delivery data and 7 for Pickup data using Excel, Power BI.
   - Implemented process improvements that reduced data pre-processing time by 20% through collaborative efforts, delivering actionable insights within deadlines.
 
 - **Key Project: Optimizing Delivery Partner Allocation in Last-Mile Logistics**
