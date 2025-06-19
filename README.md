@@ -12,16 +12,24 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 
   - Successfully completed a six-month internship, recognized for punctuality, hard work, and analytical skills.
   - Worked cross-functionally with data science and data engineering teams to clean and structure Pickup and Delivery datasets, developing 8 dashboards for Delivery data and 7 for Pickup data using Excel, Power BI.
-  - Implemented process improvements that reduced data pre-processing time by 20% through collaborative efforts, delivering actionable insights within deadlines.
 
 - **Key Project: Optimizing Delivery Partner Allocation in Last-Mile Logistics**
+
+![image](https://github.com/user-attachments/assets/a927f71e-7e39-43c6-ae84-ed6c606f9582)
+
+# Goal: GoLogistics faces inefficiencies in last-mile delivery operations due to suboptimal allocation of delivery partners. This project addresses the challenges of:
+
+Increasing delivery costs.
+Delays caused by traffic and poor route planning.
+Underutilization of delivery partner resources.
+Objectives
+BI Analysis: Create dashboards to monitor delivery performance, costs, and regional trends.
+
 
   - Focused on enhancing last-mile delivery efficiency by analysing delivery partner performance, workload distribution, and demand patterns in collaboration with cross-functional teams.
   - Developed the following Delivery dashboards: Last-Mile Delivery Analysis, Delivery Route Optimization and Traffic Analysis, Delivery Performance by Courier, City and Regional Delivery Insights, Delivery Partner Performance Analysis, and Delivery Delay Analysis.
   - Developed the following Pickup dashboards: Pickup Operations Analysis, Courier Performance and Delivery Efficiency Analysis, Regional SLA Adherence and Area Efficiency Analysis, Courier Performance and Task Timeliness Analysis, Regional and Area-Level Analysis, Courier Utilization & Idle Time Analysis, and Delivery Demand and Resource Allocation Analysis.
-  - Improved SLA compliance from 27.43% to 35% in underperforming regions like Yantai by identifying delay causes and suggesting stricter monitoring, working with data engineers to refine data pipelines.
-  - Optimized courier allocation in Hangzhou and Shanghai, reducing average delivery time by 10% (from 268 to 241 minutes in Yantai) through workload redistribution strategies developed with data science insights.
-  - Willing to discuss project specifics with recruiters for clarity, subject to confidentiality agreements.
+  
 
 ## Analytical Insights
 
@@ -29,6 +37,9 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 - Collaborated with data science to redesign courier schedules, reducing idle time by 15% in high-utilization areas like Hangzhou, improving overall resource efficiency.
 - Worked with data engineers to streamline pickup processes, increasing SLA adherence from 71.45% to 73% by optimizing task completion times (e.g., Shanghai from 135.95 to 133 minutes).
 - Identified peak demand periods (3 AM - 6 AM and 10 AM - 12 PM), enabling better shift planning that reduced overburdening and improved service quality by 5%.
+- Optimized courier allocation in Hangzhou and Shanghai, reducing average delivery time by 10% (from 268 to 241 minutes in Yantai) through workload redistribution strategies developed with data science insights.
+- Willing to discuss project specifics with recruiters for clarity, subject to confidentiality agreements.
+
 
 ## Certifications and Validation
 
