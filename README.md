@@ -17,7 +17,7 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 
 ![image](https://github.com/user-attachments/assets/a927f71e-7e39-43c6-ae84-ed6c606f9582)
 
-## Goal: GoLogistics faces inefficiencies in last-mile delivery operations due to suboptimal allocation of delivery partners. This project addresses the challenges of:
+# Goal: GoLogistics faces inefficiencies in last-mile delivery operations due to suboptimal allocation of delivery partners. This project addresses the challenges of:
 
 Increasing delivery costs.
 Delays caused by traffic and poor route planning.
